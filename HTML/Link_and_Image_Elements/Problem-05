@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NovaBook AI Pro</title>
+</head>
+<body>
+
+    <h1>NovaBook AI Pro</h1>
+
+    <p>
+        <strong>Powerful performance for coding, creativity and AI.</strong>
+    </p>
+
+    <a href="https://www.lenovo.com/"
+       target="_blank"
+       rel="noopener noreferrer"
+       title="Learn more about modern laptops">
+        <img src="laptop.jpg"
+             alt="NovaBook AI Pro laptop on a desk"
+             width="450">
+    </a>
+
+    <h2>Overview</h2>
+
+    <p>
+        The <strong>NovaBook AI Pro</strong> is a fictional laptop designed for
+        students, developers and technology enthusiasts. It combines powerful
+        performance with a lightweight design for everyday study, programming
+        and creative work.
+    </p>
+
+    <hr>
+
+    <h2>Benefits</h2>
+
+    <p>
+        The laptop provides <strong>fast performance</strong>, smooth
+        multitasking and enough power for programming and demanding software.
+        It is also designed to support students working with
+        <em>Artificial Intelligence and Machine Learning</em>.
+    </p>
+
+    <p>
+        Key benefits include <strong>high-speed processing</strong>,
+        <strong>dedicated graphics</strong>, fast storage and a bright display.
+        These features make it suitable for both <em>college work and entertainment</em>.
+    </p>
+
+    <h2>Pricing</h2>
+
+    <p>
+        Original Price:
+        <del>₹99,999</del>
+    </p>
+
+    <p>
+        Current Price:
+        <strong>₹84,999</strong>
+    </p>
+
+    <h2>Special Offer</h2>
+
+    <p>
+        <mark>Special Offer: Get ₹15,000 off for a limited time!</mark>
+        The offer is available while stocks last.
+    </p>
+
+    <h2>Customer Information</h2>
+
+    <p>z
+        The NovaBook AI Pro is suitable for students, programmers,
+        content creators and technology enthusiasts. Customers should
+        check the product specifications before purchasing.
+    </p>
+
+    <p>
+        <a href="https://example.com/buy"
+           title="Buy NovaBook AI Pro">
+           Buy Now
+        </a>
+        <br>
+        <a href="https://example.com/product"
+           target="_blank"
+           rel="noopener noreferrer"
+           title="Learn more about NovaBook AI Pro">
+           Learn More
+        </a>
+    </p>
+
+</body>
+</html>
